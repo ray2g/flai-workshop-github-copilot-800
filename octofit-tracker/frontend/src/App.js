@@ -21,7 +21,7 @@ function App() {
                 className="me-2"
                 style={{borderRadius: '8px'}}
               />
-              OctoFit Tracker
+              RonaldoFit Tracker
             </Link>
             <button 
               className="navbar-toggler" 
@@ -60,7 +60,7 @@ function App() {
           <Routes>
             <Route path="/" element={
               <div className="container mt-5 text-center">
-                <h1>🐙 Welcome to OctoFit Tracker</h1>
+                <h1>⚽ Welcome to RonaldoFit Tracker</h1>
                 <p className="lead">Track your fitness journey and compete with your team!</p>
                 <div className="row mt-4">
                   <div className="col-md-4 mb-3">
